@@ -115,21 +115,18 @@ While the final map will be provided in the following week, students are highly 
 ### Agenda
 | Date | Day | Event | London (BST/UTC+1) | Bangkok (ICT/UTC+7) | Hours |
 |------|-----|-------|---------------------|---------------------|-------|
-| September 30 | Monday | Introduction and presentation, discuss site visit | 10:00 - 13:00 | 16:00 - 19:00 | 3 |
-| October 1 | Tuesday | site visit | - | - | 0 |
-| October 2 | Wednesday | python basics, loading image data, make groups | 12:00 - 15:00 | 18:00 - 21:00 | 3 |
-| October 3 | Thursday | loading telemetry data and google scrape | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
+| September 30 | Monday | Workshop introduction | 10:00 - 12:00 | 16:00 - 18:00 | 2 |
+| October 1 | Tuesday | Introduction, intro to Houdini, site discussion, and extracting Google takeout check | 12:00 - 15:00 | 18:00 - 21:00 | 3 |
+| October 2 | Wednesday | Site discussion, strategy and visit | 12:00 - 15:00 | 18:00 - 21:00 | 3 |
+| October 3 | Thursday | Photogrammetry, Python basics, loading image data, make groups, site reconstruction, trajectory reconstruction | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
 | October 4 | Friday | Free day | - | - | 0 |
-| October 5 | Saturday | houdini basics, producing maps and extracing insights | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
+| October 5 | Saturday | Overlaying and producing maps, extracting insights | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
 | October 6 | Sunday | Free day | - | - | 0 |
-| October 7 | Monday | design proposal and working session | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
-| October 8 | Tuesday | working session  | 13:00 - 15:00 | 19:00 - 21:00 | 2 |
-| October 9 | Wednesday | working session | 12:00 - 15:00 | 18:00 - 21:00 | 3 |
-| October 10 | Thursday | working session | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
-| October 11 | Friday | Final presentations | 11:00 - 15:00 | 17:00 - 21:00 | 4 |
-
-
-Note: 30-minute lunch breaks are included for full-day sessions, except on October 2nd, 8th, 9th, and 11th.
+| October 7 | Monday | Design proposal and working session | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
+| October 8 | Tuesday | Working session  | 13:00 - 15:00 | 19:00 - 21:00 | 2 |
+| October 9 | Wednesday | Working session | 12:00 - 15:00 | 18:00 - 21:00 | 3 |
+| October 10 | Thursday | Working session | 09:00 - 12:00, 12:30 - 15:00 | 15:00 - 18:00, 18:30 - 21:00 | 5.5 |
+| October 11 | Friday | Final presentations | 11:00 - 15:00 | 17:00 - 21:00 | 4 |Note: 30-minute lunch breaks are included for full-day sessions, except on October 2nd, 8th, 9th, and 11th.
 
 ### Workshop preparation
 - A Google account with location history turned on
