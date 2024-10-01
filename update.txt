@@ -1,0 +1,28 @@
+session: 1/10/2024
+
+to do:
+find a site in distress: bridge, rooftop, hallway, family house, etc
+distress means many things --> underuse, bad location, ...
+--------------------
+before you go:
+	 --> cellular and location is turned on on gsm
+got here and try to map your entire route.
+	--> lots of images of misuse, leak, anoying stopligh.  30 + images. negative of positive.
+-------------------
+
+photogrammetry video:
+	--> 1 minute video on cellphone
+	--> tips: smooth video, no sudden zoom ins or movements
+		no reflecive surfaces like glass, etc
+		a lot of overlap, dont zoom in to much
+		walk around, dont stand still and rotate, this will not work
+		most tutorials cover images, but dont bother, film is also fine
+		a (very tragic) example of a good photogrammetry video would be something like this
+		https://www.youtube.com/watch?v=sBw0hZBlOu0
+
+------------------
+go over the rest of the houdini foundations file play around with some of the nodes, params etc
+
+
+
+
