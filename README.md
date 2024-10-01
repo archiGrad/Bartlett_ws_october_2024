@@ -136,4 +136,4 @@ While the final map will be provided in the following week, students are highly 
 
 ## Additional Notes
 
-- Refer to the [Discord channel](). (To be announced)
+- Refer to the [Discord channel](https://discord.gg/KjRrH6aC). (To be announced)
