@@ -139,4 +139,4 @@ Note: 30-minute lunch breaks are included for full-day sessions, except on Octob
 
 ## Additional Notes
 
-- Refer to the [Discord channel](https://discord.com/channels/1288761113718030378/1288761533903671319).
+- Refer to the [Discord channel](). (To be announced)
