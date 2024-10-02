@@ -59,7 +59,6 @@ extract frames from video   	-> ffmpeg -i input.mp4 -vf fps=1 -q:v 1 output_%04d
 			print(i)
 
 
-
 download realitycapture and do photogrammetry
 
 load in houdini and extract camera's ->
@@ -84,6 +83,31 @@ load in houdini and extract camera's ->
 
 
 form groups
+
+
+-----------------------
+
+
+ffmpeg command --> ffmpeg -i 2.MOV -vf fps=0.1 -q:v 1 -qmin 1 -qmax 1 frames/output_%04d.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
